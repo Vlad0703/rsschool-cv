@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(182, 182, 182);
+}
+
+#name {
+    text-align: center;
+    font-size: 30px;
+    font-weight: 900;
+}
+
+#contacts > div {
+    text-align: center;
+}
+
+#central {
+    background-color: white;
+    width: 80%;
+    margin: auto;
+    padding: 30px;
+    
+}
+
+.art {
+  color: rgb(58, 58, 58);
+}
