@@ -39,3 +39,7 @@ My goal at the moment is to become a *front-end engineer*. My priorities in my w
 07/18
 **ENGINEER FOR STANDARDIZATION, CERTIFICATION AND PARAMETER CONTROL, BELARUSIAN STATE UNIVERSITY OF INFORMATICS AND RADIOELECTRONICS, FACULTY OF INFOCOMMUNICATIONS, DEPARTMENT OF INFORMATION SECURITY**
 During the training, I studied basic courses in algorithmicization and programming, object-oriented programming, web development, information security, which influenced the subsequent choice of a profession.
+
+
+## EANGLISH
+Technical. Reading and translating. 
