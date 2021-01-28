@@ -23,3 +23,9 @@ body {
 .art {
   color: rgb(58, 58, 58);
 }
+#avatar {
+  text-align:center;
+}
+#avatar img {
+  width:40%;
+}
